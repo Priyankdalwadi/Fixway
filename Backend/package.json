@@ -2,13 +2,13 @@
   "name": "fixway",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
-    "test": "npm install mongoose"
+    "start": "node index.js"
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
